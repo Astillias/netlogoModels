@@ -77,7 +77,7 @@ to setup
 end
 
 to-report initial-infected-default
-  report 5  ;; change or add a slider named 'initial-infected' and call that instead
+  report 5
 end
 
 to setup-patches
