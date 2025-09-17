@@ -1,5 +1,3 @@
-; ==== SIR on Movers (Web-friendly) ====
-
 breed [ people person ]
 people-own [ state time-infected ]
 
